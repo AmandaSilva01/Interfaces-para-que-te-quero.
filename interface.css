@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #E3FFFC;
+
+}
+header{
+    display: block;
+    background-color: black ;
+    height: 60px;
+}
+h1{
+    align-items: center;
+    color: #E3FFFC;
+}
+.titulo{
+    display: flex;
+    padding:10px ;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    text-align: justify;
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 15pt;
+}
+table{
+
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
